@@ -474,7 +474,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "MOSbiusPCB_v4a_2026.kicad_pro",
+    "filename": "V3_Motherboard.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -806,7 +806,7 @@
       "plot": "../../tmp/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "MOSbiusPCB_v4a_2026.step",
+      "step": "V3_Motherboard.step",
       "svg": "",
       "vrml": "MOSbiusPCB_v3b_2024_2.wrl"
     },
