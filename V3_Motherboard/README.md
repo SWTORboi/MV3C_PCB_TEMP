@@ -1,5 +1,5 @@
 # MV3C_PCB_TEMP
-Temporary View Repo for V3 COB Breakout PCB (v4a_2026)
+Temporary View Repo for V3 Motherboard PCB (v4a_2026)
 
 Changes from V1 Chip PCB (v3b_2025)
 
@@ -10,6 +10,6 @@ Changes from V1 Chip PCB (v3b_2025)
 
 Further design considerations and questions
 
-1. LDO - Already have voltage supply protection, is there any reason of convenience to keep LDO for 2.5V or other voltage
-2. Power Net Switch - Is it desireable to have an aditional low drop mechanical switch for power net for chip safety
+1. SOLVED: LDO - Already have voltage supply protection, is there any reason of convenience to keep LDO for 2.5V or other voltage
+2. SOLVED: Power Net Switch - Is it desireable to have an aditional low drop mechanical switch for power net for chip safety
 3. Feedback from V1 board - Are there any issues with original V1 design that need to be addressed
